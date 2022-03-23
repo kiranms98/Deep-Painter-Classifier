@@ -1,4 +1,4 @@
-# e4040-2021Fall-project
+# Deep Painter Classification using Convolutional Autoencoders
 
 This projects focuses on the implementation of a Convolutional Autoencoder and supervised CNN for classification of artists based on their painting. The dataset used in this project can be found at: https://www.kaggle.com/supratimhaldar/deepartist-identify-artist-from-art/data?select=images . The dataset can be downloaded as a .zip file and contains paintings from 50 different artists. In this project, we have used Rembrandt, Van Gogh and Renoir. The path to the directory containing these images, in separate folders for each artist, must be specified in the code. Also, the path to the artist.cv OR art5.cv must be specified inside the code.
 
