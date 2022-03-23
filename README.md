@@ -27,7 +27,5 @@ Deep_Painter contains the original model described by the author while Misc_Mode
 ├── art5.csv
 ├── artist.csv
 ├── E4040.2021Fall.MSKD.report.km3714.mr4136.sc4921.pdf
-└── figures
-    ├── km3714_mr4136_sc4921_gcp_work_example_screenshot_1.png
     ├── km3714_mr4136_sc4921_gcp_work_example_screenshot_2.png
     ├── km3714_mr4136_sc4921_gcp_work_example_screenshot_3.png
